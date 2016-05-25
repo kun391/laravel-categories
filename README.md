@@ -1,9 +1,6 @@
 # Laravel Categories
 
-[![Latest Version on Packagist][ico-version]][link-packagist]
-[![Software License][ico-license]](LICENSE.md)
-[![Build Status][ico-travis]][link-travis]
-[![Total Downloads][ico-downloads]][link-downloads]
+[![Latest Stable Version](https://poser.pugx.org/kun391/laravel-categories/v/stable)](https://packagist.org/packages/kun391/laravel-categories) [![Total Downloads](https://poser.pugx.org/kun391/laravel-categories/downloads)](https://packagist.org/packages/kun391/laravel-categories) [![Latest Unstable Version](https://poser.pugx.org/kun391/laravel-categories/v/unstable)](https://packagist.org/packages/kun391/laravel-categories) [![License](https://poser.pugx.org/kun391/laravel-categories/license)](https://packagist.org/packages/kun391/laravel-categories)
 
 This is a package use to management multiple categories for laravel.
 
@@ -89,15 +86,3 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) and [CONDUCT](CONDUCT.md) for details
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
-
-[ico-version]: https://img.shields.io/packagist/v/:vendor/:package_name.svg?style=flat-square
-[ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/:vendor/:package_name/master.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/:vendor/:package_name.svg?style=flat-square
-[link-packagist]: https://packagist.org/packages/:vendor/:package_name
-[link-travis]: https://travis-ci.org/:vendor/:package_name
-[link-scrutinizer]: https://scrutinizer-ci.com/g/:vendor/:package_name/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/:vendor/:package_name
-[link-downloads]: https://packagist.org/packages/:vendor/:package_name
-[link-author]: https://github.com/:author_username
-[link-contributors]: ../../contributors
