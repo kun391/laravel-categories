@@ -1,5 +1,4 @@
 /vendor
-.env
 .DS_Store
 Thumbs.db
 *.sublime-project
@@ -11,3 +10,5 @@ composer.phar
 error.log
 Todo.rtf
 /composer.lock
+config.bat
+node_modules
